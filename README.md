@@ -30,6 +30,9 @@ A fast, modern React app starter built with **Vite** and **Tailwind CSS**, featu
 ### Clone, install dependencies, and start fresh (one-liner):
 
 
+
+````
+
 #### 🪟 Windows (PowerShell):
 
 ```powershell
@@ -39,7 +42,7 @@ git clone https://github.com/rimu-7/react-vite-theme.git; cd react-vite-theme; n
 #### 💻 Mac/Linux (bash/zsh):
 ```bash
 git clone https://github.com/rimu-7/react-vite-theme.git  && cd react-vite-theme  && rm -rf .git && npm install
-````
+```
 # it will install all the packages including, lucide-react, react-router-dom, tailwindcss
 
 ---
